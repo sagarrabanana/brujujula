@@ -1,3 +1,6 @@
+//Hello!
+//This is not a finished code!!!
+//
 // Test code for Adafruit GPS modules using MTK3329/MTK3339 driver
 //
 // This code shows how to listen to the GPS module in an interrupt
